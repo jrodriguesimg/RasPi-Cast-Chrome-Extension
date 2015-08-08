@@ -1,0 +1,9 @@
+body{
+	width:250px;
+}
+#volup, #voldn, #config{
+	font-weight: bold;
+}
+h1{
+	text-align:center;
+}
