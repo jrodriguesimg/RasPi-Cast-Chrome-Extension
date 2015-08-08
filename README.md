@@ -25,3 +25,5 @@ This is a Chrome browser extension that will cast a youtube video onto your Rasp
 1. Navigate your browser to a Youtube video.
 2. Click "cast video" button.
 
+## License
+This project is open sourced with GPL version 2 licence.  The Jquery library included in this project and is released under the MIT license.

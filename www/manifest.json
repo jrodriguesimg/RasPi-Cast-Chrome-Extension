@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
  
-  "name": "RaspberryPi Cast",
+  "name": "RasPi-Cast",
   "description": "This extension will cast the current youtube video to your Raspberry Pi.",
   "version": "0.1",
  
